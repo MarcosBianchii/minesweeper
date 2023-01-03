@@ -20,13 +20,6 @@
 #define CYAN   "\033[0;36m"
 #define WHITE  "\033[0;37m"
 
-#define BOMB_EMOJI    "\U0001f4a3"
-#define BOOM_EMOJI    "\U0001f4a5"
-#define FLAG_EMOJI    "\U0001f6a9"
-#define SMILE_EMOJI   "\U0001f642"
-#define GLASSES_EMOJI "\U0001f60e"
-#define SAD_EMOJI     "\U0001f628"
-
 typedef enum GameState {
         PLAYING, WON, LOST
 } game_state_t;
