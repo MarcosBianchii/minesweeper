@@ -1,11 +1,4 @@
 #include "minesweeper.h"
-#include <stdio.h>
-#include <ctype.h>
-#include <stdlib.h>
-#include <string.h>
-#include <stdbool.h>
-#include <time.h>
-#include <ncurses.h>
 
 game_t *game = NULL;
 char input = '.';

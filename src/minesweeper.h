@@ -2,6 +2,14 @@
 #define __MINESWEEPER_H__
 
 #include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdbool.h>
+#include <time.h>
+#include <ncurses.h>
 
 #define BLACK  "\033[0;30m"
 #define RED    "\033[0;31m"
